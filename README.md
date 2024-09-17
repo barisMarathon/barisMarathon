@@ -10,7 +10,7 @@
 - 📫 How to reach me **barisguzeltas4@yahoo.com**
 
 <h3 align="center">Connect with me:</h3>
-[LinkedIn](https://tr.linkedin.com/in/ahmet-bar%C4%B1%C5%9F-g%C3%BCzelta%C5%9F-bba295324)
+[LinkedIn](https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324)
 <p align="center">
 </p>
 
