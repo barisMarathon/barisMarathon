@@ -8,11 +8,13 @@
 - 💬 Ask me about **Vue**
 
 - 📫 How to reach me **barisguzeltas4@yahoo.com**
-
 <h3 align="center">Connect with me:</h3>
-[LinkedIn](https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324)
 <p align="center">
+  <a href="https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
+  </a>
 </p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
