@@ -13,6 +13,9 @@
   <a href="https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" height="30" width="30">
   </a>
+  <a href="mailto:barisguzeltas4@yahoo.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40">
+  </a>
 </p>
 
 
@@ -24,4 +27,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="barismarathon" /></p>
+<p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="barismarathon" />
+</p>
