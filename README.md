@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="60">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" width="100">
   </a>
 </p>
 
