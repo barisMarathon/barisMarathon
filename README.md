@@ -4,16 +4,21 @@
 <p align="center">
   🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
 </p>
+<p>
+
+</p>
 <p align="center">
   🌱 I’m currently learning <strong>Frameworks</strong>
+</p>
+<p>
+
 </p>
 <p align="center">
   💬 Ask me about <strong>Vue</strong>
 </p>
-<p align="center">
-  📫 How to reach me <strong>barisguzeltas4@yahoo.com</strong>
-</p>
+<p>
 
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://tr.linkedin.com/in/ahmet-barış-güzeltaş-bba295324" target="_blank">
