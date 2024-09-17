@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Barış Güzeltaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<p align = "center">
+
 🔭 I’m currently working on [Urth](https://aiurth.com/)
 
 🌱 I’m currently learning **Frameworks**
@@ -8,7 +8,7 @@
 💬 Ask me about **Vue**
 
 📫 How to reach me **barisguzeltas4@yahoo.com**
-</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
