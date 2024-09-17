@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ahmet Barış Güzeltaş</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-🔭 I’m currently working on [Urth](https://aiurth.com/)
-
-🌱 I’m currently learning **Frameworks**
-
-💬 Ask me about **Vue**
-
-📫 How to reach me **barisguzeltas4@yahoo.com**
-
+<p align="center">
+  🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
+</p>
+<p align="center">
+  🌱 I’m currently learning <strong>Frameworks</strong>
+</p>
+<p align="center">
+  💬 Ask me about <strong>Vue</strong>
+</p>
+<p align="center">
+  📫 How to reach me <strong>barisguzeltas4@yahoo.com</strong>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
