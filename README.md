@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmet Barış Güzeltaş</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate developer from Turkey</h3>
+<h3>  </h3>
+
+
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" width=250 height=250 >
+
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
+  <img align="left" src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b95266gzgds4ny4nnrdgq56vxalwtdd6bo9w411tkw4g&ep=v1_gifs_search&rid=200w.gif&ct=g" width=250 height=250 >
+    🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
 </p>
 <p>
 
@@ -25,7 +31,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" height="30" width="30">
   </a>
   <a href="mailto:barisguzeltas4@yahoo.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40">
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40">
   </a>
 </p>
 
@@ -39,5 +45,5 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="barismarathon" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=barismarathon&show_icons=true&locale=en&layout=compact" alt="barismarathon" height="250" width="250"/>
 </p>
