@@ -13,13 +13,13 @@
 
 </p>
 <p align="center">
-  🌱 I’m currently learning <strong>Frameworks</strong>
+  🌱 I’m currently learning <strong>Mobile Development</strong>
 </p>
 <p>
 
 </p>
 <p align="center">
-  💬 Ask me about <strong>Vue</strong>
+  💬 Ask me about <strong>Dart & Flutter</strong>
 </p>
 <p>
 
