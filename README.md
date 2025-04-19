@@ -8,7 +8,6 @@
 
 <p align="center">
   <img align="left" src="https://media4.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b95266gzgds4ny4nnrdgq56vxalwtdd6bo9w411tkw4g&ep=v1_gifs_search&rid=200w.gif&ct=g" width=250 height=250 >
-    🔭 I’m currently working on <a href="https://aiurth.com/">Urth</a>
 </p>
 <p>
 
