@@ -13,13 +13,13 @@
 
 </p>
 <p align="center">
-  🌱 I’m currently learning <strong>Mobile Development</strong>
+  🌱 I’m currently learning <strong>Kubernetes</strong>
 </p>
 <p>
 
 </p>
 <p align="center">
-  💬 Ask me about <strong>Dart & Flutter</strong>
+  💬 Ask me about <strong>Deployments</strong>
 </p>
 <p>
 
